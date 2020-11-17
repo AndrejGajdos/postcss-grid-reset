@@ -17,10 +17,6 @@
 .foo {
   display: grid;
 }
-
-.foo-2 {
-  display: block;
-}
 ```
 
 ```css
@@ -30,10 +26,6 @@
 
 .foo > * {
   min-width: 0;
-}
-
-.foo-2 {
-  display: block;
 }
 ```
 
