@@ -1,0 +1,7 @@
+body {display: block;}
+main {display: inline;}
+article {display: grid;}
+article > * {min-width: 0;}
+footer {display: inline-block;}
+h1 {display: inline-flex;}
+h2 {display: flex;min-width: 40px;}
