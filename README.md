@@ -11,6 +11,10 @@
 
 [PostCSS] plugin for resetting CSS Grid. This plugin adds rule `min-width:0` to all direct descendants of element `display: grid`.
 
+Here is an [example](https://codepen.io/andrej_gajdos/pen/yLJdZVM) of layout, which doesn't work as expected and [here](https://codepen.io/andrej_gajdos/pen/MWeMLbo) is the fix.
+
+This was just one example, but you will come across similar funky issues in your grid layouts in different browsers. You can read my whole story [here](https://andrejgajdos.com/css-reset-flexbox-grid-responsive-layout/).
+
 [postcss]: https://github.com/postcss/postcss
 
 ```css
