@@ -73,3 +73,7 @@ See [Releases history]
 ## License
 
 [MIT]
+
+---
+
+Built by [Andrej Gajdos](https://andrejgajdos.com) | [Note API Connector](https://noteapiconnector.com/) | [Note Fx Sheets](https://notefxsheets.com/)
